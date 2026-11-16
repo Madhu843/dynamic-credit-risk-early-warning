@@ -1,0 +1,30 @@
+﻿# Large datasets - keep locally, do not upload
+data/
+
+# Trained model binaries - review before publishing
+models/
+
+# Compressed duplicate figures
+figures.zip
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Temporary files and logs
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Credentials and local secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml

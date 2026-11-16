@@ -1,0 +1,13 @@
+{
+    "project": "Dynamic and Explainable Credit Risk Early-Warning System with Portfolio Stress Testing",
+    "audit_date": "2026-11-07",
+    "artifact_count": 25,
+    "artifacts_present": 25,
+    "artifacts_missing": 0,
+    "summary_tables_passed": 7,
+    "summary_tables_total": 7,
+    "dashboard_csv_count": 13,
+    "dashboard_figure_count": 5,
+    "expected_loss_reconciliation": true,
+    "technical_audit_status": "CORE OUTPUT AUDIT PASSED - MODEL AND SHAP REVIEWED"
+}

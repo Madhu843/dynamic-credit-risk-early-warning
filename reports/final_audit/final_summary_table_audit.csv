@@ -1,0 +1,8 @@
+table,rows,columns,empty,status
+monthly_risk,21,8,False,PASS
+portfolio_exposure,1,10,False,PASS
+ews_exposure,5,7,False,PASS
+stress_sensitivity,9,10,False,PASS
+expected_loss,5,7,False,PASS
+calibration_metrics,1,10,False,PASS
+calibration_deciles,10,7,False,PASS
